@@ -1,0 +1,5 @@
+63.115.41.235 Pinging %its responding
+63.84.59.72 Pinging %its responding
+63.115.41.74 Pinging %its responding
+63.115.41.120 Pinging %its responding
+63.115.41.27 Pinging %its responding
